@@ -1,3 +1,3 @@
 # Profile
 
-https://devampanchasara.github.io/Profile/
+https://devampanchasara.github.io/DevamPanchasara/
